@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #D8C581;
+    /* text-align: center; */
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+h3 {
+    padding: 20px;
+    margin-bottom: 50px;
+
+}
+
+form {
+    color: #2E3417;
+    margin: 50px;
+
+}
+
+/* input{
+    font-size: 20px;
+    margin-left: 20px;
+} */
+.title {
+    background-color: #2E3417;
+    color: #D8C581;
+    font-weight: 400;
+    text-align: center;
+}
+
+.button {
+    background-color: #8D33A8;
+    padding: 10px;
+}
+
+label {
+    display: inherit;
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
+
+textarea {
+    padding: 10px;
+    font-size: 18px;
+    color: #B6C482;
+    margin-left: 20px;
+    background-color: #2E3417;
+    border-radius: 5px;
+}
+
+select {
+    color: #B6C482;
+    padding: 10px;
+    margin-left: 20px;
+    background-color: #2E3417;
+    border-radius: 5px;
+    border: solid 0px;
+}
+
+.lab {
+    background-color: #B6C482;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 1px #2e34171d;
+}
+
+.napisz {
+    background-color: mediumblue;
+    padding: 20px;
+}
+
+.inputCity {
+    font-size: 18px;
+    margin-left: 20px;
+    padding: 5px;
+    background-color: #2E3417;
+    color: #B6C482;
+    border-radius: 5px;
+}
+.isLoved{
+    margin-left: 20px;
+}
