@@ -11,4 +11,5 @@ Napisz mi...
 czy lubisz to miasto?
 
 Ile razy byliscie w tym miescie?
-0
+
+![img](./assets/img.png)
